@@ -1,0 +1,18 @@
+{
+    "emotionLabel": "Enregistrer l'émotion",
+    "dietLabel": "Régime record",
+    "workoutLabel": "Enregistrer l'entraînement",
+    "lastRecordedTime": "Dernière heure enregistrée",
+    "lastRecordedType": "Dernier type enregistré",
+    "pointsLabel": "l' aiguilles",
+    "levelLabel": "Niveau",
+    "emotionInstruction": "Appuyez sur un Emoji pour exprimer votre sentiment",
+    "emojiList": "Emojis et dates-heures sélectionnés",
+    "dietInstruction": "Entrez ce que vous avez mangé",
+    "dietDropdownInstruction": "Sélectionnez parmi les entrées précédentes",
+    "foodLabel": "Nourriture",
+    "quantityLabel": "Quantité",
+    "submitButton": "Soumettre",
+    "workoutInstruction": "Choisissez un exercice et entrez la quantité",
+    "workoutDropdownInstruction": "Sélectionnez un exercice dans la liste"
+}

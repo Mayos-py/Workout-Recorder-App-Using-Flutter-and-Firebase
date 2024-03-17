@@ -1,0 +1,17 @@
+{
+  "emotionLabel": "Record Emotion",
+  "dietLabel": "Record Diet",
+  "workoutLabel": "Record Workout",
+  "lastRecordedTime": "Last Recorded Time",
+  "lastRecordedType": "Last Recorded Type",
+  "pointsLabel": "Points",
+  "levelLabel": "Level",
+  "emotionInstruction": "Tap on an Emoji to Express Your Feeling",
+  "dietInstruction": "Enter What You Ate",
+  "dietDropdownInstruction": "Select from previous entries",
+  "foodLabel": "Food",
+  "quantityLabel": "Quantity",
+  "submitButton": "Submit",
+  "workoutInstruction": "Choose an Exercise and Enter Quantity",
+  "workoutDropdownInstruction": "Select exercise from the list"
+}
